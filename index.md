@@ -42,7 +42,7 @@ Implemented "Top N" filtering to dynamically display best and worst performers.
 
 ![Demo GIF](path/to/demo.gif)
 
-# DataAnalytics #GoogleLookerStudio #DataVisualization #PerformanceTracking #DataDriven
+**DataAnalytics #GoogleLookerStudio #DataVisualization #PerformanceTracking #DataDriven**
 
 
 - **Real-Time Data Pipeline** – Kafka & Spark Streaming  
