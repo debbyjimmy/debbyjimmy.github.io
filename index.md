@@ -40,7 +40,7 @@ Implemented "Top N" filtering to dynamically display best and worst performers.
 ✔ Provided real-time insights for decision-making
 ✔ Made employee data more accessible & actionable
 
-![Demo Screenshot] https://prnt.sc/vfunZpGMW-2b
+![Demo Screenshot] https://prnt.sc/vfunZpGMW-2b  https://prnt.sc/5Lz69vlBMyZ-
 
 <small> #DataAnalytics #GoogleLookerStudio #DataVisualization #PerformanceTracking #DataDriven </small>
 
