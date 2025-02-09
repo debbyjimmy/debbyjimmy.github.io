@@ -4,23 +4,22 @@ Welcome to my **Big Data & Machine Learning** project documentation!
 
 ## 🚀 Featured Projects
 
-## Employee Performance Trend Analysis
+# Employee Performance Trend Analysis
 
-## How I Built an Interactive Employee Performance Dashboard in Looker Studio
-## 🚀 Challenge: 
+# 🚀 Challenge: 
 Tracking employee performance trends is crucial for understanding efficiency changes over time. This task was necessary to reduce efforts trying to understand who is improving in the team and who is declining. As the direct supervisor of this team, the information derived from this analysis is crucial to me. Other managers and company executives will find this very helpful as well. 
 
-## 🚀 Solution Overview
+# 🚀 Solution Overview
 Designed an interactive dashboard to track efficiency trends of an 80-person team across multiple quarters.
 Built using Google Looker Studio and Google Sheets for real-time data visualization.
 
-## 🚀 Tools Used
+# 🚀 Tools Used
 Google Sheets → Data transformation & storage
 Google Looker Studio → Interactive dashboard creation
 SQL-Like Formulas → Data calculations and filtering
 Google Data Studio Calculated Fields → Custom performance metrics
 
-## 🚀 Key Features Implemented
+# 🚀 Key Features Implemented
 
 ✔ Data Transformation
 Converted wide-format data (columns per quarter) into a long-format structure using ARRAYFORMULA() in Google Sheets.
@@ -36,7 +35,7 @@ Quarterly Trends = Used Looker Studio’s custom calculated fields to extract an
 Added filters, sliders, and drop-down controls to allow management to explore team performance.
 Implemented "Top N" filtering to dynamically display best and worst performers.
 
-## 🚀Impact:
+# 🚀Impact:
 ✔ Enabled management to quickly identify high performers & struggling employees
 ✔ Provided real-time insights for decision-making
 ✔ Made employee data more accessible & actionable
